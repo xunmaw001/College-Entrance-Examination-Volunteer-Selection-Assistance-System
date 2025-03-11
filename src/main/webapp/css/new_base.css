@@ -1,0 +1,92 @@
+
+@charset "utf-8";
+/* CSS Document */
+/*-----------------------------------------??????鐎??-----------------------------------------*/
+body,html{ padding:0; margin:0 auto; background-color:#fff; line-height:24px; text-align:left; font-family:"\5FAE\8F6F\96C5\9ED1";}
+img{ border:none;display:block;}
+h1,h2,h3,h4,h5,h6,hr,blockquote,form,ul,ol,li,p,pre,dl,dt,dd,fieldset,legend,button,input,textarea,th,td{ padding:0; margin:0;}
+ul,ol,li{ list-style:none;}
+sup{ vertical-align:text-top;}
+sub{ vertical-align:text-bottom;}
+legend { color:#333;}
+fieldset{ border:0;} 
+em,i{ font-style:normal;}
+button,input,select,textarea { font-size:100%; vertical-align:middle;}
+table{ border-collapse:collapse; border-spacing:0;}
+.clear{ clear:both; line-height:0px; font-size:0px;}
+.clearfix:after{ content:"";display:block; height:0; clear:both; visibility:hidden;}
+.clearfix{zoom:1;}
+.lt,.left{ float:left; _display:inline;}.rt,.right{ float:right;}
+.hr_10{ clear:both; height:10px; overflow:hidden; font-size:1px; line-height:1px;}
+.hr_15{ clear:both; height:15px; overflow:hidden; font-size:1px; line-height:1px;}
+.hr_20{ clear:both; height:20px; overflow:hidden; font-size:1px; line-height:1px;}
+.hr_50{ clear:both; height:50px; overflow:hidden; font-size:1px; line-height:1px;}
+.po_re{position: relative;}
+.backf8{background: #F8F8F8;}
+/*-----------------------------------------閻???濡???----------------------------------------*/
+a.col0ca:link,a.col0ca:visited,a.col0ca:hover,a.col0ca:active{ color:#0cabf5;}
+a.col5559:link,a.col5559:visited,a.col5559:hover,a.col5559:active{ color:#55595f;}
+.col0ca{color:#0cabf5;}
+/*------------------------------------------閻????瀹??-------------------------------------------*/
+body,button,input,select,textarea{ font-family: "\5FAE\8F6F\96C5\9ED1"; color:#55595f; font-size:12px;}
+h1,h2,h3,h4,h5,h6{ font-size:100%;}
+address,cite,dfn,em,var{ font-style:normal }
+code,kbd,pre,samp{ font-family:courier new, courier, monospace;}
+small{ font-size:12px;}
+.bold{ font-weight:bold;}
+.ft12{ font-size:12px;}.ft14{ font-size:14px;}.ft16{ font-size:16px;}.ft18{ font-size:18px;}.ft120{ font-size:20px;}
+a{ color:#55595f; text-decoration:none;outline: 0;}
+a:hover{ color:#0cabf5; text-decoration:underline;}
+ 
+/*-----------------------------------------?閵?????閻???----------------------------------------*/
+.tm5{ margin-top:5px;}.tm10{ margin-top:10px;}.tm15,.topMargin15 { margin-top:15px;}.tm20{ margin-top:20px;}.tm30{ margin-top:30px;}
+.lm5{ margin-left:5px;}.lm10{ margin-left:10px;}.lm15{ margin-left:15px;}.lm20{ margin-left:20px;}.lm30{ margin-left:30px;}
+.bm5{ margin-bottom:5px;}.bm10{ margin-bottom:10px;}.bm15{ margin-bottom:15px;}.bm20{ margin-bottom:20px;}.bm30{ margin-bottom:30px;}
+.rm5{ margin-right:5px;}.rm10{ margin-right:10px;}.rm15{ margin-right:15px;}.rm20{ margin-right:20px;}.rm30{ margin-right:30px;}
+.tp5{ padding-top:5px;}.tp10{ padding-top:10px;}.tp15{ padding-top:15px;}.tp20{ padding-top:20px;}.tp30{ padding-top:30px;}
+.lp5{ padding-left:5px;}.lp10{ padding-left:10px;}.lp15{ padding-left:15px;}.lp20{ padding-left:20px;}.lp30{ padding-left:30px;}
+.bp5{ padding-bottom:5px;}.bp10{ padding-bottom:10px;}.bp15{ padding-bottom:15px;}.bp20{ padding-bottom:20px;}.bp30{ padding-bottom:30px;}
+.rp5{ padding-right:5px;}.rp10{ padding-right:10px;}.rp15{ padding-right:15px;}.rp20{ padding-right:20px;}.rp30{ padding-right:30px;}
+.txtC{ text-align:center;}.txtR{ text-align:right;}
+.txt_idt{ text-indent:24px;}
+.fontYh{ font-family:"\5FAE\8F6F\96C5\9ED1";}
+.wrapper{
+	width: 1000px;
+	margin: 0 auto;
+}
+/*濠㈣埖鎸??瀹??*/
+
+/*閻忓繘绠??瀹??*/
+#footer{ overflow:hidden; padding-bottom:10px;}
+#footer p{ padding-top:5px; text-align:center;}
+#footer p img{ border:1px solid #CCC; margin:0 5px;}
+/*濡???濡炪倗鏁婚妴????鐎??/
+.footer{ overflow:hidden; height:1%; padding-bottom:10px;}
+.footer p{ padding-top:5px; text-align:center;}
+.footer p img{ border:1px solid #CCC; margin:0 5px;}
+/*閻???????閳ヨ尪鍘煫??/
+.part_d{ border:1px solid #E5E5E5; width:948px; margin:0 auto;}
+.part_d .hd{ background:url(../images/beikao/service_title_bg.gif) repeat-x; height:24px; line-height:24px; padding-left:10px; font-weight:normal;}
+.part_d_inner{ padding:10px;}
+/*濡????閹??閻??/
+/*.partner h5{ background:url(http://img.eduuu.com/gaokao/images/index/bg_tit1.jpg) repeat-x; border:1px solid #B6D2E8;font-size:12px;height:25px;padding:0 0 0 10px;color:#338FC2; overflow:hidden; line-height:25px;}
+.partner .content{ border:1px solid #B6D2E8; border-top:0; padding:10px}
+.partner .content a{ color:#999; white-space:nowrap; width:92px; display:inline-block; text-align:left;}
+.partner .content a:hover{ color:#f00}
+.partner .col_key a{ width:auto;}*/
+.area{width: 940px;margin: 0 auto;}
+.partner{padding: 20px 30px;border: 1px solid #dcdcdc;border-radius: 5px;-webkit-border-radius: 5px;-moz-border-radius: 5px;-ms-border-radius: 5px;-o-border-radius: 5px;background: #fff;}
+.partner ul {float: left;padding-right: 40px;}
+/*?閹??閻??015-12-8*/
+.keyArea{ border:1px solid #bad2e7; width:998px;}
+.keyTit,.keyArea dl{ height:34px; line-height:34px; background:url(http://img.eduuu.com/website/gaokao/images/partsite/bj/index/keyNav.gif) repeat-x; overflow:hidden;}
+.keyTit span,.mtTit span{ padding:0 10px; text-align:center; cursor:pointer; display:block; float:left;}
+.keyTit .keyOn,.mtTit .mtOn{ border-top:2px solid #187DC0; border-right:1px solid #bad2e7; background:#fff; height:32px;}
+.keyTit .keyOn,.keyTit .keyOn a,.keyTit .keyOn a:hover,.mtTit .mtOn{ color:#2f80bd;}
+.keyCon{ padding:10px;}.keyCon ul{ float:left; padding-right:34px;}
+.keyArea dt{ padding:0 15px 0 10px;}.keyArea dt,.keyArea dd{ float:left;}
+.mtTit span{ margin-right:5px;}.mtTit .mtOn{ font-weight:bold; line-height:32px; border-left:1px solid #bad2e7;}
+.mtCon{ padding:10px 0;}.mtCon li{ float:left; display:inline; margin:0 12px; white-space:nowrap;}
+/*閺???濡炪倕鐖?*/
+/*濞???IE6???bug*/*html,*htmlbody{background-image:url(about:blank);background-attachment:fixed;}
+#back-to-top{ background:url(http://img.eduuu.com/website/gaokao/images/contList/btn_back.gif) no-repeat 50% 0; width:30px; height:91px; position:fixed; bottom:106px; display:block; line-height:999px; overflow:hidden; cursor:pointer; left:52%; margin-left:485px;_position:absolute;_right:auto;_left:expression(eval(document.documentElement.scrollLeft+705));_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||100)));}

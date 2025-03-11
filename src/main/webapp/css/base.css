@@ -1,0 +1,420 @@
+@charset "gb2312";
+/* CSS Document */
+
+/*-----------------------------------------ï¿½ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½Ê½------------------------------------------*/
+body, html {
+    padding: 0;
+    margin: 0 auto;
+    background-color: #fff;
+    line-height: 24px;
+    min-width: 980px;
+}
+
+img {
+    border: none;
+}
+
+h1, h2, h3, h4, h5, h6, hr, blockquote, form, ul, ol, li, p, pre, dl, dt, dd, fieldset, legend, button, input, textarea, th, td {
+    padding: 0;
+    margin: 0;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+sup {
+    vertical-align: text-top;
+}
+
+sub {
+    vertical-align: text-bottom;
+}
+
+legend {
+    color: #000;
+}
+
+fieldset {
+    border: 0;
+}
+
+em, i {
+    font-style: normal;
+}
+
+button, input, select, textarea {
+    font-size: 100%;
+}
+
+/* table{ border-collapse:collapse; border-spacing:0;} */
+
+.left {
+    float: left;
+    _display: inline;
+}
+
+.right {
+    float: right;
+}
+
+.hr_10 {
+    clear: both;
+    height: 10px;
+    overflow: hidden;
+    font-size: 1px;
+    line-height: 1px;
+}
+
+.solid:after {
+    content: '\20';
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.solid {
+    *zoom: 1;
+}
+
+/*------------------------------------------ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê½-------------------------------------------*/
+body, button, input, select, textarea {
+    font-family: "å¾?½¯???";
+    color: #000;
+    font-size: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+}
+
+address, cite, dfn, em, var {
+    font-style: normal
+}
+
+code, kbd, pre, samp {
+    font-family: courier new, courier, monospace;
+}
+
+small {
+    font-size: 12px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.ft12 {
+    font-size: 12px;
+}
+
+.ft14 {
+    font-size: 14px;
+}
+
+.ft16 {
+    font-size: 16px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FF0000;
+    text-decoration: underline;
+}
+
+a.red:link, a.red:visited {
+    color: #B70B00;
+}
+
+a.red:hover {
+    color: #B70B00;
+}
+
+a.red:active {
+    color: #B70B00;
+}
+
+a.white:link, a.white:visited {
+    color: #fff;
+}
+
+a.white:hover {
+    color: #fff;
+}
+
+a.white:active {
+    color: #fff;
+}
+
+a.org, a.org:hover {
+    color: #FE5639;
+}
+
+a.c_blue, a.c_blue:hover, .c_blue {
+    color: #005EAC;
+}
+
+.c9 {
+    color: #999;
+}
+
+/*-----------------------------------------È«ï¿½ï¿½Ôªï¿½Ø²ï¿½ï¿½ï¿½----------------------------------------*/
+.topMargin5 {
+    margin-top: 5px;
+}
+
+.topMargin10 {
+    margin-top: 10px;
+}
+
+.topMargin15 {
+    margin-top: 15px;
+}
+
+.topMargin20 {
+    margin-top: 20px;
+}
+
+.leftMargin5 {
+    margin-left: 5px;
+}
+
+.leftMargin10 {
+    margin-left: 10px;
+}
+
+.bottomMargin5 {
+    margin-bottom: 5px;
+}
+
+.bottomMargin10 {
+    margin-bottom: 10px;
+}
+
+.rightMargin10 {
+    margin-right: 15px;
+}
+
+.wrapper, .wrap {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+/*-----------------------------------------btn ï¿½ï¿½Ê½----------------------------------------*/
+.btn_gary {
+    display: inline-block;
+    padding: 0 5px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    background: url(../images/btn_vote_Bg.png) repeat-x;
+    border: 1px solid #E1E1E1;
+}
+
+/*Í·ï¿½ï¿½ï¿½ï¿½Ê½*/
+
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+/*part_d*/
+.part_d {
+    border: 1px solid #E5E5E5;
+    width: 948px;
+    margin: 0 auto;
+}
+
+.part_d .hd {
+    background: url(http://img.eduuu.com/zhongkao/images/title_bg.gif) repeat-x;
+    height: 24px;
+    line-height: 24px;
+    padding-left: 10px;
+    font-weight: normal;
+}
+
+.part_d .hd a {
+    color: #333;
+    font-size: 12px;
+    font-weight: bold
+}
+
+.part_d_inner {
+    padding: 10px;
+}
+
+/*ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+.friendLink {
+    width: 930px;
+    background: url(http://img.eduuu.com/website/zhongkao/images/partsite/bj/index/teachTitNav.png) no-repeat;
+    height: 26px;
+    line-height: 26px;
+    font-size: 14px;
+    padding: 0 10px;
+}
+
+.friendLink {
+    padding-top: 2px;
+    height: 24px;
+    line-height: 24px;
+}
+
+.friendLink em {
+    font-weight: normal;
+}
+
+.friendLink small {
+    margin-left: 15px;
+    font-weight: normal;
+}
+
+.linkCon {
+    word-spacing: 15px;
+    text-indent: 15px;
+    padding: 10px 10px 0;
+}
+
+.borderLr {
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+}
+
+.monthDown {
+    background: url(http://img.eduuu.com/website/zhongkao/images/partsite/bj/index/monthDown.gif) no-repeat;
+}
+
+.monthUp, .monthDown {
+    height: 8px;
+    overflow: hidden;
+}
+
+/*Î²ï¿½ï¿½ï¿½ï¿½Ê½*/
+#kbdy {
+    padding: 10px 0 5px 0;
+    height: 29px;
+}
+
+#kbdy .kbdybox {
+    width: 640px;
+    _width: 675px;
+    position: relative;
+    margin: 0 auto;
+}
+
+* + html #kbdy .kbdybox {
+    width: 675px;
+}
+
+#kbdy em {
+    background: url(http://img.eduuu.com/edu/new_images/kbdy_icon.gif) no-repeat 0 45%;
+    text-indent: 15px;
+    display: block;
+    color: #1F376D;
+    line-height: 19px;
+    float: left;
+    margin: 5px 5px 0 0;
+    *margin: 3px 5px 0 0;
+    _margin: 5px 5px 0 0;
+}
+
+#kbdy form {
+    float: left;
+    padding-top: 2px;
+}
+
+* + html #kbdy form {
+    padding-top: 0;
+}
+
+#kbdy input {
+    vertical-align: middle;
+    margin: -3px 5px 0;
+}
+
+#kbdy img {
+    position: absolute;
+    top: 4px;
+    right: 0;
+    _top: 0px;
+    display: block;
+}
+
+* + html #kbdy img {
+    top: 1px;
+}
+
+#kbdy .kbdy_input {
+    width: 168px;
+    height: 17px;
+    border: 1px solid #D2DBDD;
+}
+
+#footer {
+    text-align: center;
+    line-height: 22px;
+    border-top: 1px solid #E8E8E8;
+    padding-top: 10px;
+}
+
+/* ï¿½Âµ×²ï¿½ï¿½ï¿½Ê½ */
+
+/*Ò³ï¿½ï¿½*/
+.footer2013 {
+    border-top: 3px solid #7e7e7e;
+    background-color: #e8e8e8;
+    padding: 10px 0;
+    line-height: 28px;
+    color: #000;
+}
+
+.footer2013 .tc {
+    border-top: 1px solid #000;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.footer2013 dt {
+    font-size: 18px;
+    font-family: Î¢ï¿½ï¿½ï¿½Åºï¿½;
+}
+
+.link {
+    padding: 10px 0;
+    zoom: 1;
+    overflow: hidden;
+    word-spacing: 20px;
+}
+
+.link dt {
+    width: 100px;
+    float: left;
+}
+
+.link dd {
+    width: 850px;
+    float: left;
+}
+
+/*?¾åº¦åº??å¹¿å?ä½?µ®?¨å¹¿??*/
+#BAIDU_DUP_wrapper_749461_0 {
+    width: 120px;
+    height: 240px;
+    position: fixed;
+    left: 50%;
+    top: 240px;
+    margin-left: -620px;
+}
+
+/*åº???¾åº¦å¹¿å?ä½??å®?¹¿??*/
+#BAIDU_DUP_wrapper_375185_0 {
+    position: fixed;
+    bottom: 50px;
+    width: 120px;
+    height: 90px;
+    left: 50%;
+    margin-left: -630px;
+}

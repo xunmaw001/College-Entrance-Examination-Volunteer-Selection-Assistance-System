@@ -1,0 +1,3640 @@
+.logoArea {
+    height: 42px;
+    line-height: 42px;
+}
+
+.logoArea {
+    color: #333;
+}
+
+.logoArea a:link, .logoArea a:visited {
+    color: #333;
+}
+
+.logoArea a:hover {
+    color: #f00;
+    text-decoration: underline;
+}
+
+.logoArea a:active {
+    color: #333;
+}
+
+.logoArea img {
+    display: block;
+    float: left;
+}
+
+/* 新栏目导航 */
+.channel_Nav {
+    position: relative;
+    height: 36px;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.channel_Nav ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-right: 1px solid #DDDDDD;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.channel_Nav li {
+    float: left;
+}
+
+.channel_Nav li a {
+    float: left;
+    display: block;
+    height: 35px;
+    padding: 0 18px;
+    line-height: 35px;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    text-decoration: none;
+    color: #333333;
+    background: #F5F5F5;
+    border: 1px solid #DDDDDD;
+    border-right: none;
+}
+
+.channel_Nav li a:hover {
+    text-decoration: underline;
+}
+
+.channel_Nav li a.on {
+    color: #ffffff;
+    background: #198CCF;
+    border-color: #198CCF;
+}
+
+.channel_Nav li a.on:hover {
+    color: #ffffff;
+}
+
+/* 新搜索 */
+.search_Box input {
+    float: left;
+    border: none;
+    background: none;
+}
+
+.search_Box .search_Txt {
+    width: 230px;
+    height: 28px;
+    padding-left: 35px;
+    line-height: 28px;
+    border: 1px solid #88B3E1;
+    border-right: none;
+    background: 8px 6px no-repeat;
+}
+
+.search_Box .search_Btn {
+    width: 59px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "微软雅黑";
+    background: #198CCF;
+    cursor: pointer;
+}
+
+/* 20140224 结束 */
+
+.bk {
+    border: 1px solid #E1E1E1;
+    padding: 10px 15px;
+}
+
+.bk_ind {
+    border: 1px solid #E1E1E1;
+    padding: 10px 6px;
+}
+
+.bk_cont {
+    padding: 0 0 10px 0px;
+    margin-top: 5px;
+    float: left;
+    display: inline;
+    width: 725px;
+}
+
+.bose {
+    background:  no-repeat left center;
+    color: #000000;
+    height: 42px;
+    line-height: 42px;
+    font-size: 12px;
+}
+
+.bose a {
+    color: #005EAC;
+    font-size: 12px;
+}
+
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.bg_sez h2 {
+    height: 48px;
+    padding-bottom: 5px;
+    line-height: 48px;
+    font-size: 24px;
+    font-family: "微软雅黑";
+    font-weight: normal;
+    color: #005EAC;
+    padding-left: 10px;
+}
+
+.bg_sez .college_com {
+    display: inline-block;
+    width: 69px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    font-family: "宋体";
+    font-size: 12px;
+    color: #ffffff;
+    background: #FE5639;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+/*shou页面*/
+.ind_fom {
+    background: #fff;
+}
+
+form, input, select {
+    color: #333;
+}
+
+.mainc1 {
+    height: 170px;
+}
+
+.newsSearch {
+    height: 170px;
+    overflow: hidden;
+}
+
+.newsSearch li {
+    width: 147px;
+    height: 160px;
+    padding: 0 4px;
+    float: left;
+    border-right: 1px solid #e6e6e6;
+    text-align: center;
+}
+
+.newsSearch li.borderNone {
+    border-right: none;
+    padding-right: 0;
+}
+
+.newsSearch li b {
+    display: block;
+    width: 147px;
+    height: 28px;
+    line-height: 28px;
+    background-color: #EAF4FD;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: #2C6BB2;
+    float: left;
+}
+
+.newsSearch li b.bottomPad {
+    _margin-top: 3px;
+}
+
+.input46 {
+    width: 46px;
+}
+
+.input141 {
+    width: 141px;
+}
+
+.input46, .input141 {
+    margin: 7px 0;
+    _display: inline;
+    height: 16px;
+    line-height: 16px;
+    color: #6F6F6F;
+}
+
+select, input {
+    vertical-align: middle;
+}
+
+.select50 {
+    width: 71px;
+}
+
+.select57 {
+    width: 56px;
+}
+
+.select60 {
+    width: 74px;
+}
+
+.select65 {
+    width: 65px;
+}
+
+.select69 {
+    width: 69px;
+}
+
+.select70 {
+    width: 70px;
+}
+
+.select79 {
+    width: 65px;
+}
+
+.select80 {
+    width: 83px;
+}
+
+.select82 {
+    width: 82px;
+}
+
+.select106 {
+    width: 106px;
+}
+
+.select113 {
+    width: 144px;
+}
+
+.select114 {
+    width: 145px;
+}
+
+.select145 {
+    width: 145px;
+}
+
+.select144 {
+    width: 144px;
+}
+
+.newsSearch .select69, .newsSearch .select70, .newsSearch .select79, .newsSearch .select80, .newsSearch .select106, .newsSearch .select113, .newsSearch .select114, .newsSearch .select145, .newsSearch .select144, .newsSearch .select82, .newsSearch .select50, .newsSearch .select57, .newsSearch .select60, .newsSearch .select79 {
+    height: 20px;
+    line-height: 20px;
+    margin: 7px 0;
+    _display: inline;
+}
+
+.newsSearch .inputImg {
+    width: 56px;
+    height: 21px;
+    margin-top: 6px;
+    background: #198CCF;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+.inputImg0 {
+    margin: 0 0 0 10px;
+}
+
+.xzdx {
+    float: left;
+    width: 968px;
+    background: #F9F9F9;
+    overflow: hidden;
+}
+
+.xzdx h3 {
+    font-weight: normal;
+    font-size: 18px;
+    font-family: "微软雅黑";
+    border-bottom: 1px solid #E1E1E1;
+    height: 28px;
+    margin-bottom: 10px;
+}
+
+.xzdx h3 span, .xzdx h3 strong {
+    background: 0 -246px no-repeat;
+    padding-left: 10px;
+}
+
+.xzdx h3 span {
+    float: left;
+    width: 500px;
+    display: block;
+}
+
+.xzdx h3 strong {
+    display: block;
+    float: right;
+    width: 250px;
+    font-weight: normal;
+}
+
+.xzdx dl {
+    float: left;
+}
+
+.zdl {
+    width: 356px;
+}
+
+.zdl dt {
+    width: 360px;
+}
+
+.zdl dd {
+    width: 360px;
+}
+
+.zdc {
+    width: 330px;
+}
+
+.zdc dt {
+    width: 330px;
+}
+
+.zdc dd {
+    width: 330px;
+}
+
+.zdr {
+    width: 250px;
+    padding-left: 10px;
+}
+
+.zdr dt {
+    width: 250px;
+}
+
+.zdr dd {
+    width: 250px;
+}
+
+.xzdx dl dt {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.xzdx dl dd {
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.xzdx dl dd a {
+    margin-right: 10px;
+    float: left;
+    white-space: nowrap;
+    display: inline-block;
+    color: #005EAC;
+}
+
+.xzdx dl dd a:hover {
+    color: #FF0000;
+}
+
+.xzdx dl dd a:hover {
+}
+
+#bg_sz {
+    background:  no-repeat left 2px;
+}
+
+#bg_sz li {
+    background: none;
+    height: 24px;
+    line-height: 21px;
+    padding-left: 23px;
+}
+
+#bg_sz li span {
+    float: right;
+    color: #999999;
+    font-size: 12px;
+}
+
+#bg_sz li span a {
+    color: #999999;
+    font-size: 12px;
+}
+
+.yxxx {
+    width: 204px;
+    float: left;
+    margin: 10px 0 5px 10px;
+    display: inline;
+}
+
+.yx_c {
+    border-left: 1px solid #DCDDDC;
+    border-right: 1px solid #DCDDDC;
+    padding: 0 10px;
+}
+
+.yxxx h4 {
+    height: 26px;
+    line-height: 26px;
+    background:  no-repeat left center;
+    padding-left: 10px;
+}
+
+.yxxx h4 span {
+    float: right;
+}
+
+.yxxx h4 span a {
+    color: #005EAC;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.yxxx h4 strong {
+    font-size: 14px;
+}
+
+.yxxx h4 strong em {
+    font-style: normal;
+    font-size: 12px;
+    color: #999999;
+    font-weight: normal;
+}
+
+.yxxx ul li {
+    background:  no-repeat left center;
+    padding-left: 10px;
+}
+
+.yxxx ul li a {
+    font-size: 14px;
+    color: #000;
+}
+
+.yxxx ul li a:hover {
+    color: #FF0000;
+}
+
+.btm_xa {
+    border-bottom: 1px solid #DCDDDC;
+    margin: 0 10px;
+}
+
+/*天津大学页面*/
+.sm_nav {
+    background: #FAFAFA;
+    overflow: hidden;
+    float: left;
+    width: 968px;
+}
+
+.sm_nav p {
+    float: left;
+    color: #727272;
+}
+
+.sm_nav p strong {
+    color: #000;
+}
+
+.sm_nav p a {
+    color: #005EAC;
+    padding: 2px;
+    position: relative;
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+}
+
+.sm_nav p a.h {
+    position: relative;
+    display: inline-block;
+}
+
+.sm_nav p a.n {
+    position: relative;
+    display: inline-block;
+}
+
+.sm_nav p a:hover, .sm_nav p a.cur {
+    background: #005EAC;
+    color: #fff;
+}
+
+.sm_nav p a.h i {
+    position: absolute;
+    right: -8px;
+    top: 0;
+    width: 11px;
+    height: 10px;
+    line-height: 10px;
+    text-align: center;
+    font-family: arial;
+    font-size: 9px;
+    border-radius: 5px;
+    display: block;
+    background: #FE7100;
+    color: #fff;
+}
+
+.sm_nav p a.n i {
+    position: absolute;
+    right: -8px;
+    top: 0;
+    width: 11px;
+    height: 10px;
+    line-height: 10px;
+    text-align: center;
+    font-family: arial;
+    font-size: 9px;
+    border-radius: 5px;
+    display: block;
+    background: #0a8607;
+    color: #fff;
+}
+
+.witdh_500 {
+    width: 500px;
+}
+
+.Introduction {
+    overflow: hidden;
+    background: #FAFAFA;
+    float: left;
+    width: 918px;
+}
+
+.Introduction p {
+    width: 474px;
+    float: left;
+    border-right: 1px solid #E1E1E1;
+    font-size: 14px;
+    text-indent: 2em;
+    padding-right: 10px;
+}
+
+.Introduction p a {
+    color: #005EAC;
+}
+
+.int_r {
+    float: right;
+    width: 418px;
+}
+
+.int_r span {
+    float: left;
+    line-height: 45px;
+    margin-right: 10px;
+}
+
+.int_r span strong {
+    font-size: 12px;
+}
+
+.int_r span b {
+    margin: 0 0 0 20px;
+    display: inline;
+    background: no-repeat right center;
+    padding-right: 20px;
+}
+
+.witdh_140 {
+    width: 140px;
+}
+
+.cont_l {
+    width: 725px;
+    float: left;
+}
+
+.cont_r {
+    width: 265px;
+    float: right;
+}
+
+.ct_t {
+    background: #F9F9F9;
+}
+
+.ct_t h3 {
+    height: 30px;
+    padding-bottom: 5px;
+    line-height: 30px;
+    border-bottom: 1px solid #E1E1E1;
+}
+
+/*20140224*/
+.ct_t h3 p {
+    font-family: "微软雅黑";
+    font-size: 16px;
+    color: #005EAC;
+    font-weight: normal;
+}
+
+/* 20140224 */
+.ct_t h3 p a {
+    color: #005EAC;
+}
+
+.ct_t h3 span {
+    float: right;
+    font-weight: normal;
+}
+
+.ct_t h3 span a {
+    color: #005EAC;
+    font-family: "宋体";
+    font-size: 14px;
+}
+
+.ct_t ul li {
+    background:  no-repeat 10px center;
+    padding-left: 20px;
+    height: 27px;
+    line-height: 27px;
+}
+
+.ct_t ul li a {
+    font-size: 14px;
+}
+
+.ct_t ul li span a {
+    float: right;
+    color: #999;
+}
+
+.ct_t ul li span a:hover {
+    color: #005EAC;
+}
+
+.cont_l .cont_tips {
+    width: 300px;
+    margin: 100px auto;
+    color: #005EAC;
+    font-size: 14px;
+}
+
+.cont_l .cont_tips a {
+    font-weight: bold;
+    color: #005EAC;
+}
+
+.in h3 {
+    background: repeat-x;
+    height: 35px;
+}
+
+.in h3 span {
+    background:  0 -76px no-repeat;
+    height: 35px;
+    width: 154px;
+    float: left;
+    display: block;
+    text-align: center;
+    line-height: 33px;
+}
+
+.in h3 span p {
+    font-size: 16px;
+    font-family: "微软雅黑";
+    color: #fff;
+}
+
+.detal_Lk {
+    display: inline-block;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.in h3 form {
+    float: right;
+    padding-top: 6px;
+}
+
+.in h3 form p {
+    float: left;
+    font-weight: normal;
+    margin-left: 10px;
+    display: inline;
+}
+
+.in h3 form p select {
+    height: 18px;
+}
+
+.in table {
+    margin-top: 5px;
+}
+
+.in table td, .cont_l table th {
+    border-color: #E1E1E1;
+}
+
+.in table th {
+    height: 36px;
+    line-height: 36px;
+    background: #F0F5F8;
+    color: #005EAC;
+    font-size: 14px;
+}
+
+.in table td {
+    text-align: center;
+}
+
+.in table td a {
+    color: #005EAC;
+}
+
+.in table tr:hover {
+    background: #D5EAFB !important;
+}
+
+.table_default td:hover {
+    background: #D5EAFB !important;
+}
+
+.in table .bgwhite:hover {
+    background: #FFF;
+}
+
+#pjf a {
+    color: #000;
+    cursor: text;
+}
+
+#pjf a:hover {
+    text-decoration: none;
+}
+
+#pjf_hs a {
+    color: #CCCCCC;
+    cursor: text;
+}
+
+#pjf_hs a:hover {
+    text-decoration: none;
+}
+
+.hs {
+    color: #CCCCCC;
+}
+
+.sz {
+    background: #F7FBFE;
+}
+
+.szw {
+    background: #FFFFFF;
+}
+
+/*工商管理页面*/
+.xuen {
+    float: left;
+    width: 918px;
+    background: #F9F9F9;
+}
+
+.xuen span strong {
+    font-size: 14px;
+}
+
+.xuen_kc {
+    float: left;
+    width: 918px;
+    background: #F9F9F9;
+    border-top: none;
+}
+
+.xuen_kc, .xuen_kc strong {
+    font-size: 14px;
+}
+
+.fll strong {
+    float: left;
+    width: 80px;
+}
+
+.fll span {
+    float: right;
+    width: 838px;
+}
+
+.gsgl {
+}
+
+.gsgl .tab {
+    width: 250px;
+}
+
+.gsgl .tab_tit {
+    height: 40px;
+    width: 100%;
+}
+
+.gsgl .tab_tit li {
+    background: #EFEFEF;
+    height: 40px;
+    width: 162px;
+    float: left;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 8px;
+    position: relative;
+}
+
+.gsgl .tab_tit li.on {
+    background: #198CCF;
+    color: #fff;
+    height: 40px;
+    width: 162px;
+    float: left;
+    display: block;
+    text-align: center;
+}
+
+.gsgl .tab_con div {
+    display: none;
+}
+
+.gsgl .tab_con div.ts, .gsgl, .gsgl .tab_con div.gx_form {
+    display: block;
+}
+
+.tab_tit li span {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -5px;
+    display: block;
+    width: 10px;
+    height: 3px;
+    background: no-repeat;
+    display: none;
+}
+
+.gsgl .tab_tit li.on span {
+    display: block;
+}
+
+.gsgl .tab_con div table tr.gx_tr {
+    width: 673px;
+}
+
+.gsgl .tab_con div table tr.gx_tr th {
+    border: none;
+    width: 673px;
+    overflow: hidden;
+}
+
+.gsgl .tab_con div table td, .gsgl .tab_con div table th {
+    border-color: #E1E1E1;
+}
+
+.gsgl .tab_con div table th {
+    text-align: left;
+    height: 36px;
+    line-height: 36px;
+    background: #F0F5F8;
+    color: #005EAC;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.gsgl .tab_con div table td {
+    text-align: left;
+    width: 325px;
+    padding: 0 10px;
+    overflow: hidden;
+}
+
+.gsgl .tab_con div table td a {
+    color: #005EAC;
+}
+
+.gsgl .tab_con div table td span {
+    float: right;
+}
+
+.zygk {
+    float: left;
+    width: 918px;
+    border: 1px solid #E1E1E1;
+    border-bottom: none;
+}
+
+.zygk strong {
+    font-size: 14px;
+}
+
+#d_bk {
+    border-bottom: 1px solid #E1E1E1;
+}
+
+.gsgl .tab_con div table th .gx_form {
+    margin: 7px 10px 0 0;
+    _display: inline;
+}
+
+/*专业搜索页面*/
+.menufix {
+    padding: 10px 20px;
+    border-left: 1px solid #e1e1e1;
+    border-right: 1px solid #e1e1e1;
+}
+
+.menufix p {
+    padding: 5px 0;
+    border-bottom: 1px dotted #DDDDDD;
+    overflow: hidden;
+}
+
+.menufix p.last {
+    border-bottom: none;
+}
+
+.menufix p a {
+    margin: 3px 0;
+    padding: 0 8px;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.menufix p a:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
+.menufix p a.on {
+    color: #ffffff;
+    background: #198CCF;
+}
+
+.ment_Cto {
+    border-top: 2px solid #86C9F0;
+}
+
+.ment_Cto a {
+    display: block;
+    width: 209px;
+    height: 24px;
+    margin: 0px auto;
+    color: #2C6BB3;
+    background:  0px -217px no-repeat;
+    text-align: center;
+}
+
+.ment_Cto a.down {
+    background-position: 0px -278px;
+}
+
+.ss {
+    border: 1px solid #e1e1e1;
+    background: #f9f9f9;
+}
+
+.ss dl dt {
+    float: left;
+    width: 95px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.ss dl dd {
+    width: 810px;
+    float: right;
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.ss dl dd a {
+    margin-right: 20px;
+    float: left;
+    white-space: nowrap;
+    display: inline-block;
+}
+
+.ss dl dd a:hover {
+    color: #FF0000;
+}
+
+.ss dl dd a.red:link, .ss dl dd a.red:visited {
+    color: #fe7100;
+    font-weight: bold;
+}
+
+.ssBox {
+    border-top: none;
+}
+
+.ssBox dl dd {
+    width: 548px;
+}
+
+.zy_tit {
+    height: 33px;
+    border: 1px solid #E1E1E1;
+}
+
+.zy_tit div {
+    background:  no-repeat;
+    height: 33px;
+    width: 28px;
+    float: left;
+    display: block;
+    text-align: center;
+    line-height: 33px;
+    padding: 0 10px;
+}
+
+.zy_tit span {
+    background:  repeat-x;
+    height: 33px;
+    float: left;
+    display: block;
+    text-align: center;
+    line-height: 33px;
+    padding: 0 10px;
+}
+
+.zy_tit span em {
+    font-style: normal;
+    background:  no-repeat left center;
+    padding-left: 20px;
+    display: block;
+    font-size: 14px;
+    color: #fff;
+}
+
+.zy_tit form {
+    float: right;
+    padding: 6px 10px 0 0;
+}
+
+.zy_tit form p {
+    float: left;
+    font-weight: normal;
+    margin-left: 10px;
+    display: inline;
+}
+
+.zy_tit form p select {
+    height: 20px;
+    line-height: 22px;
+    border: 1px solid #7F9DB9;
+}
+
+.zy_tit p {
+    float: left;
+    font-weight: normal;
+    margin-left: 10px;
+    display: inline;
+    padding-top: 7px;
+}
+
+.zy_tit p select {
+    height: 20px;
+    line-height: 22px;
+}
+
+.zy_tit p select.stuarea {
+    width: 62px;
+}
+
+.zy_tit p select.subject, .zy_tit p select.year {
+    width: 50px;
+}
+
+.ss1 form p select {
+    width: 125px;
+}
+
+.ss2 form p select {
+    width: 85px;
+}
+
+.ss3 form p select {
+    width: 90px;
+}
+
+.ss4 form p select {
+    width: 83px;
+}
+
+#wd_kd {
+    width: 154px;
+}
+
+.ss5 form p select {
+    width: 85px;
+}
+
+.searchInput {
+    height: 18px;
+    width: 130px;
+    border: 1px solid #DBDBDB;
+    line-height: 20px;
+    overflow: hidden;
+    _margin-top: -1px;
++ margin-top: - 1 px;
+}
+
+.searchInput110 {
+    height: 18px;
+    border: 1px solid #DBDBDB;
+    line-height: 20px;
+    overflow: hidden;
+    _margin-top: -1px;
++ margin-top: - 1 px;
+}
+
+.searchInput110_141 {
+    width: 141px;
+}
+
+.zycx table {
+}
+
+.zycx table td, .cont_l table th {
+    border-color: #E1E1E1;
+}
+
+.zycx table th {
+    height: 36px;
+    line-height: 36px;
+    background: #F0F5F8;
+    color: #005EAC;
+    font-size: 14px;
+}
+
+.zycx table th.dc {
+    background: #F9F9F9;
+    color: #000;
+}
+
+.zycx table td {
+    text-align: center;
+}
+
+.zycx table td a {
+    color: #005EAC;
+}
+
+.zycx table td a:hover {
+    color: #FF0000;
+}
+
+.zycx table td.pjf a {
+    color: #000;
+    cursor: text;
+}
+
+.zycx table td.pjf a:hover {
+    text-decoration: none;
+}
+
+/*学校录取分数线页面*/
+.bg_cc h3 {
+    background: #EBEBEB;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.bg_cc h3 strong {
+    height: 40px;
+    width: 390px;
+    float: left;
+    display: block;
+    text-align: left;
+    line-height: 40px;
+    font-weight: normal;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.bg_cc h3 strong b {
+    color: #FF6E00;
+}
+
+/*学校简介页面*/
+#bott {
+    padding-bottom: 0px;
+}
+
+.jjArea {
+    width: 723px;
+    float: left;
+}
+
+.adPic {
+    padding: 15px 0;
+    border: 1px solid #ddd;
+    width: 723px;
+    margin: 0 auto 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.jj {
+    padding: 20px;
+    width: 683px;
+    float: left;
+    border: 1px solid #E1E1E1;
+    padding-bottom: 75px;
+}
+
+.jj table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.jj table th, .jj table td {
+    border: 1px solid #E1E1E1;
+}
+
+.jj h3 {
+    font-family: "微软雅黑";
+    font-size: 18px;
+    color: #000000;
+    font-weight: normal;
+}
+
+.jj p {
+    font-size: 14px;
+    color: #666666;
+    line-height: 24px;
+    margin-top: 25px;
+}
+
+.jj_hk {
+    width: 640px;
+    padding: 20px 16px;
+    border: none;
+}
+
+.jj_con {
+    border: 1px solid #ddd;
+    padding: 20px 20px 75px;
+    width: 632px;
+}
+
+.jj_adpic {
+    border: 1px solid #ddd;
+}
+
+/*翻页*/
+.fany {
+    width: 725px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
+.fany li {
+    margin: 0 2px;
+    padding: 3px 5px 1px 5px;
+    background: #F0F5F8;
+    border: 1px solid #D2D2D2;
+    display: inline;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.fany li a {
+    color: #000000;
+}
+
+.fany li input {
+    margin-top: -2px;
+}
+
+#pagenum {
+    width: 40px;
+}
+
+.return {
+    border: 1px solid #E1E1E1;
+    float: left;
+    padding: 116px 20px 130px;
+    width: 633px;
+    text-align: center;
+}
+
+.return p {
+    font-size: 20px;
+    font-family: "微软雅黑";
+    color: #000000;
+    height: 40px;
+    line-height: 40px;
+}
+
+.return span {
+    display: block;
+    background:  no-repeat left center;
+    padding-left: 20px;
+    width: 90px;
+    margin: 0 auto;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 15px;
+}
+
+.return span a {
+    color: #005EAC;
+}
+
+.bdd {
+    overflow: hidden;
+    width: 928px;
+}
+
+.bdd p {
+    float: left;
+}
+
+.bdd p span {
+    border: 1px solid #FF8040;
+    background: #fff;
+    height: 17px;
+    display: block;
+    line-height: 17px;
+    float: left;
+    padding-left: 5px;
+    font-size: 14px;
+    color: #8F8F8F;
+    margin-top: 2px;
+}
+
+.bdd p span em {
+    font-style: normal;
+    float: left;
+    display: block;
+}
+
+.bdd p span em b {
+    font-weight: normal;
+    color: #FF6F04;
+    display: inline;
+}
+
+.bdd p span a {
+    display: block;
+    float: left;
+}
+
+.bdd p span img {
+    margin: 1px;
+    float: left;
+    display: inline;
+}
+
+.bdd p strong {
+    display: block;
+    float: left;
+    font-size: 14px;
+    color: #000000;
+    font-weight: normal;
+}
+
+#qx {
+    border: 0px;
+    padding: 0px;
+    background: none;
+}
+
+.ts {
+    border: 1px solid #E1E1E1;
+    float: left;
+    padding: 20px 30px 75px;
+    width: 663px;
+}
+
+.ts h3 {
+    color: #888888;
+    font-size: 18px;
+    font-weight: normal;
+    border-bottom: 1px solid #E1E1E1;
+    height: 35px;
+    line-height: 30px;
+}
+
+.ts h3 a {
+    color: #005EAC;
+}
+
+.ts h3 em {
+    color: #FF6F00;
+    font-style: normal;
+}
+
+.ts p {
+    color: #666666;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 25px;
+}
+
+.ts p span {
+    display: block;
+    width: 100%;
+    color: #102E36;
+    height: 26px;
+    line-height: 26px;
+}
+
+.lq h3 {
+    font-size: 14px;
+}
+
+.area {
+    width: 950px;
+    margin: 0 auto;
+    clear: both;
+}
+
+.footer {
+    overflow: hidden;
+    height: 1%;
+    padding-bottom: 10px;
+}
+
+.footer p {
+    padding-top: 5px;
+    text-align: center;
+}
+
+.footer p img {
+    border: 1px solid #CCC;
+    margin: 0 5px;
+}
+
+.wj_bk {
+    background: #F9F9F9;
+    padding: 5px 0;
+    border: 1px solid #E1E1E1;
+}
+
+.wj_bk p {
+    color: #666666;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+}
+
+/*考生所在地已选择*/
+.true {
+    border-top: 1px solid #E1E1E1;
+    border-left: 1px solid #E1E1E1;
+    border-right: 1px solid #E1E1E1;
+    padding: 8px 0 4px 15px;
+    background: #F0F5F8;
+    font-size: 14px;
+    float: left;
+    width: 933px;
+}
+
+.true p {
+    float: left;
+}
+
+.true span {
+    border: 1px solid #FF6F04;
+    display: block;
+    height: 17px;
+    float: left;
+    line-height: 17px;
+    margin-top: 2px;
+    padding: 0 1px 0 2px;
+}
+
+.true span strong {
+    font-weight: normal;
+    color: #8F8F8F;
+}
+
+.true span em {
+    font-style: normal;
+    color: #FF6F04;
+}
+
+.true span b {
+    margin-top: 1px;
+    display: block;
+    width: 15px;
+}
+
+.true span b, .true span em, .true span strong {
+    float: left;
+}
+
+/* 20130508改 开始 */
+.top_bg {
+    background:  repeat-x;
+    padding: 10px 0px;
+    position: relative;
+}
+
+.top_bg p {
+    width: 950px;
+    margin: 0 auto;
+    color: #545454;
+    text-align: center;
+    font-size: 14px;
+}
+
+.top_bg .down_app {
+    display: inline-block;
+    width: 52px;
+    height: 24px;
+    margin: 0 10px;
+    padding-left: 19px;
+    font-size: 12px;
+    color: #000102;
+    line-height: 24px;
+    background:  0px -24px no-repeat;
+}
+
+.top_bg .down_app:hover {
+    color: #000102;
+}
+
+.top_bg img {
+    vertical-align: middle;
+}
+
+.top_bg p a {
+    color: #005EAC;
+    font-size: 14px;
+}
+
+.top_bg span {
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    display: block;
+}
+
+.bk1 {
+    border: 1px solid #E1E1E1;
+    padding: 7px;
+}
+
+/* 20130508改 结束 */
+
+.btnFsxBox, .btnFsxBox0 {
+    background: #ebebeb;
+    border: 1px solid #e0e0e0;
+    line-height: 38px;
+    padding: 0 10px 0 15px;
+    font-size: 14px;
+}
+
+.btnFsxBox font {
+    font-weight: bold;
+    color: #fe7100;
+    font-size: 14px;
+}
+
+.btnFsxBox a {
+    background:  no-repeat;
+    width: 127px;
+    height: 22px;
+    color: #fff;
+    display: block;
+    margin-top: 8px;
+    text-indent: 30px;
+    line-height: 22px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.btnFsxBox a:hover {
+    text-decoration: underline;
+}
+
+.btnFsxBox0 font {
+    color: #005EAC;
+    font-weight: bold;
+}
+
+.btnFsxBox0 font em {
+    color: #000;
+    padding: 0 5px;
+}
+
+.btnFsxBox0 a {
+    color: #005EAC;
+}
+
+/* 搜索引擎页专用 */
+.border68 {
+    border: 1px solid #E1E1E1;
+}
+
+.title68 {
+    font-size: 14px;
+    line-height: 34px;
+    border-bottom: 1px solid #E1E1E1;
+    text-indent: 20px;
+    background: #F9F9F9;
+}
+
+.title68 span a {
+    color: #005EAC;
+    margin-right: 15px;
+    font-weight: 500;
+}
+
+.title68b {
+    background: #f9f9f9;
+    margin-bottom: 5px;
+}
+
+.title68b em {
+    font-weight: normal;
+}
+
+.title68b font {
+    color: #FE7100;
+    font-weight: bold;
+}
+
+.detailFsx div {
+    width: 184px;
+    padding: 15px 20px;
+    background: #F9F9F9;
+    min-height: 95px;
+    _height: 96px;
+}
+
+.detailFsx div.bl {
+    width: 183px;
+    border-right: 1px solid #E1E1E1;
+}
+
+.schInfo div {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.schInfo .ind68 {
+    text-indent: 2em;
+}
+
+.schInfo div a {
+    color: #005EAC;
+}
+
+.ksTit th {
+    padding: 0 15px 0 20px;
+    text-align: left;
+}
+
+.ksTit th span a {
+    color: #005EAC;
+    font-weight: 500;
+}
+
+.zycx .ksTit td {
+    padding-left: 20px;
+    text-align: left;
+    width: 336px;
+    overflow: hidden;
+}
+
+/* 首页删除估分选大学后的样式 */
+.bk_ind {
+    padding: 10px 4px;
+}
+
+.newsSearch li {
+    width: 184px;
+    padding: 0 7px;
+}
+
+.newsSearch li b {
+    width: 184px;
+}
+
+.newsSearch li .input141 {
+    width: 180px;
+}
+
+.newsSearch li .select114, .newsSearch li .select145, .newsSearch li .select144 {
+    width: 184px;
+}
+
+.newsSearch li .select79, .newsSearch li .select60, .newsSearch li .select80, .newsSearch li .select57, .newsSearch li .select70, .newsSearch li .select69 {
+    width: 89px;
+}
+
+/* CSS Document */
+.yxdb h2 {
+    color: #005eac;
+    font-size: 14px;
+}
+
+.yxdb dd {
+    float: left;
+    width: 556px;
+}
+
+.yxdb ul {
+    width: 267px;
+    float: left;
+    text-align: center;
+    padding: 10px 0 5px;
+}
+
+.yxdb li {
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.yxdb li input {
+    width: 64px;
+    height: 20px;
+    border: none;
+}
+
+.wid190 {
+    width: 190px;
+    border: 1px solid #abadb3;
+}
+
+.btnDel {
+    background:  no-repeat;
+}
+
+.btnRep {
+    background:  no-repeat;
+    margin-left: 15px;
+}
+
+.yxdb th {
+    width: 123px;
+}
+
+.yxdb td {
+    background: #fff;
+    width: 274px;
+}
+
+.yxdb .info {
+    text-align: left;
+    padding: 10px;
+}
+
+.blue #bg_sz li span a {
+    color: #005EAC;
+}
+
+.blue #bg_sz li span a:hover {
+    color: #f00;
+}
+
+.yxdb .voteArea {
+    padding: 10px 29px;
+    text-align: center;
+    width: 216px;
+}
+
+.voteArea p {
+    position: relative;
+    height: 150px;
+}
+
+.voteArea .w70 {
+    width: 70px;
+}
+
+.voteArea .w60 {
+    width: 60px;
+}
+
+.voteArea .w60 .vote {
+    width: 58px;
+    padding: 0;
+    left: 0;
+}
+
+.vote {
+    background:  no-repeat;
+    cursor: pointer;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 5px;
+    display: block;
+    position: absolute;
+    left: 5px;
+    bottom: 10px;
+    border: 1px solid #E1E1E1;
+}
+
+.vote:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+.green .vote {
+    background-position: 0 -21px;
+}
+
+.grey .vote {
+    background-position: 0 -42px;
+}
+
+.voteArea em {
+    background:  repeat-y;
+    width: 27px;
+    display: block;
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    bottom: 58px;
+    height: auto;
+}
+
+.voteArea span {
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: -15px;
+    width: 56px;
+}
+
+.vote_red em {
+    background-position: 0 0;
+}
+
+.vote_blue em {
+    background-position: -32px 0;
+}
+
+.vote_grey em {
+    background-position: -64px 0;
+}
+
+.green em {
+    background-position: -25px 0;
+}
+
+.lm20 {
+    margin-left: 20px;
+}
+
+/*新家“高校投票”样式20130220*/
+.colloege {
+    height: 206px;
+}
+
+.colloege p {
+    height: 184px;
+}
+
+.colloege p strong {
+    position: absolute;
+    bottom: 25px;
+    left: -15px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.colloege p a {
+    bottom: 0px;
+}
+
+.colloege p em {
+    bottom: 56px;
+}
+
+.colloege p span {
+    top: -24px;
+}
+
+.colloege a.gary_Tp, .colloege a.gary_Tp:hover {
+    color: #999;
+    cursor: default;
+}
+
+/*高校报名投票 20130224*/
+.vote_Apply {
+    height: 166px;
+}
+
+.vote_Apply p {
+    height: 150px;
+}
+
+.vote_Apply p strong {
+    position: absolute;
+    bottom: 25px;
+    left: -15px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.vote_Apply p a {
+    bottom: 0px;
+}
+
+.vote_Apply p em {
+    left: 16px;
+    bottom: 32px;
+}
+
+.vote_Apply p span {
+    top: -24px;
+}
+
+/*专业对比汇总*/
+.zycx .wid160 {
+    width: 140px;
+    padding: 10px;
+    text-align: left;
+}
+
+.zycx .wid97 {
+    width: 77px;
+    padding: 10px;
+    text-align: left;
+}
+
+/*网友点评*/
+.ct_t .voteArea {
+    padding: 0 12px;
+    text-align: center;
+}
+
+.ct_t .votePk {
+    background:  center 66px no-repeat;
+}
+
+.adPic {
+    width: 653px;
+    padding: 10px;
+}
+
+.adPic dt {
+    text-align: center;
+}
+
+.adPic li {
+    width: 326px;
+    float: left;
+}
+
+/*学校、专业对比入口*/
+.dbSearch {
+    height: 32px;
+    line-height: 32px;
+}
+
+.dbSearch span, .pullS #pullSF span {
+    float: right;
+    padding-right: 10px;
+}
+
+.inputDb {
+    border: none;
+    background:  no-repeat;
+    padding-left: 30px;
+    width: 300px;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 5px;
+}
+
+.btnDb {
+    cursor: pointer;
+    background:  no-repeat;
+    width: 79px;
+    height: 32px;
+    overflow: hidden;
+    border: none;
+}
+
+/*浮层样式*/
+.pullS {
+    background: #fff  repeat-x 0 bottom;
+    box-shadow: 0 1px 6px #999;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    _position: absolute;
+    _bottom: auto;
+    display: none;
+}
+
+#pullSF {
+    position: relative;
+    padding: 11px 0 15px;
+    z-index: 7;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#pullSF span {
+    margin-top: 5px;
+}
+
+/*专业动态*/
+.actList {
+    border: 1px solid #DDDDDD;
+    background-color: #F9F9F9;
+    padding: 10px;
+    width: 653px;
+}
+
+.actList dt {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 0 5px 3px;
+}
+
+.actList ul li {
+    float: left;
+    width: 311px;
+    background-position: 5px center;
+    padding-left: 15px;
+}
+
+.actList ul li a {
+    font-size: 12px;
+}
+
+/*新高校对比*/
+.classBox {
+    background: #ebebeb;
+}
+
+.classColl {
+    position: relative;
+    line-height: 50px;
+    z-index: 9990;
+}
+
+.classColl .specialty {
+    font-family: "微软雅黑";
+    font-size: 24px;
+    color: #005eac;
+}
+
+.classColl .specialty em {
+    color: #999999;
+}
+
+.classColl em {
+    color: #005eac;
+    cursor: pointer;
+}
+
+.classColl a {
+    color: #666666;
+}
+
+/*选择学校分类*/
+.classColl .areaBox {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: 302px;
+    border: 1px solid #e1e1e1;
+    background: #ffffff;
+    z-index: 999999;
+}
+
+.classColl .areaBox .arry {
+    position: absolute;
+    top: -16px;
+    left: 105px;
+    display: block;
+    width: 21px;
+    height: 16px;
+    background:  no-repeat;
+}
+
+.classColl .areaBox .areaHd {
+    padding: 0px 14px 0px 19px;
+    line-height: 38px;
+    background: #f0f5f8;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.classColl .areaBox .areaHd span {
+    font-size: 14px;
+}
+
+.classColl .areaBox .areaHd a {
+    float: right;
+    display: inline-block;
+    width: 22px;
+    height: 21px;
+    margin-top: 10px;
+    background:  no-repeat;
+    cursor: pointer;
+}
+
+.classColl .areaBox ul {
+    height: 37px;
+    background:  bottom repeat-x;
+}
+
+.classColl .areaBox ul li {
+    float: left;
+    width: 58px;
+    margin: 11px 10px 0px;
+    font-family: Arial;
+    color: #005eac;
+    text-align: center;
+    line-height: 25px;
+    border-top: 1px solid #ffffff;
+    cursor: pointer;
+}
+
+.classColl .areaBox ul li.on {
+    border-radius: 3px 3px 0px 0px;
+    border: 1px solid #e1e1e1;
+    border-bottom: none;
+    background: #fff;
+}
+
+.classColl .itemBoxArea {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.classColl .itemCon {
+    padding-bottom: 5px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.classColl .itemCon1 .linkBox {
+    padding: 15px;
+}
+
+.classColl .itemCon1 .linkBox p {
+    padding: 5px 0px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.classColl .itemCon1 .selectBox {
+    line-height: 24px;
+}
+
+.classColl .itemCon1 .selectBox select {
+    width: 200px;
+}
+
+.classColl .itemCon1 .selectBox input {
+    float: right;
+    padding: 2px 5px;
+}
+
+.classColl .itemCon1 .linkBox a {
+    display: inline-block;
+    margin: 5px 10px;
+    padding: 0px 2px;
+    line-height: 16px;
+}
+
+.classColl .itemCon1 .linkBox a:hover {
+    color: #ffffff;
+    background: #005eac;
+    text-decoration: none;
+}
+
+.classColl .itemCon1 .pageBox {
+    padding: 0px 15px;
+    text-align: right;
+}
+
+.classColl .itemCon1 .pageBox a {
+    margin: 0px 10px;
+    color: #999999;
+}
+
+.classColl .itemCon1 .pageBox a:hover {
+    color: #999999;
+    text-decoration: none;
+}
+
+.classColl .itemCon1 .pageBox a.cur {
+    color: #005eac;
+}
+
+.td_br {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #e1e1e1;
+}
+
+.td_br td {
+    padding: 0px 5px;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+}
+
+.td_br td.td_h {
+    text-indent: 15px;
+    text-align: left;
+}
+
+.tableH {
+    width: 100%;
+    line-height: 26px;
+    border-collapse: collapse;
+    border-bottom: none;
+}
+
+.tableH td {
+    border: 1px solid #e1e1e1;
+}
+
+.collInfo {
+    padding: 5px 15px;
+}
+
+.collInfo .zindex1 {
+    z-index: 1;
+}
+
+.collInfo .zindex2 {
+    z-index: 2;
+}
+
+.collInfo dl {
+    position: relative;
+    z-index: 999;
+}
+
+.collInfo dl dt {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collInfo dl dt em a, .collInfo dl dt em a:hover {
+    color: #005eac;
+    cursor: default;
+    text-decoration: none;
+}
+
+.collInfo dl dd {
+    position: absolute;
+    z-index: 999;
+}
+
+.collInfo dl dt span {
+    display: block;
+    color: #999999;
+    cursor: pointer;
+}
+
+/*20130205改*/
+.collInfo dl dt span.on a {
+    color: #005eac;
+}
+
+/*20130205加*/
+.collInfo dl dt span a {
+    color: #999999;
+}
+
+.collInfo dl dt span a:hover {
+    color: #005eac;
+}
+
+.collInfo .areaBox {
+    top: 25px;
+    left: -16px;
+    width: 422px;
+    border: 1px solid #e1e1e1;
+    background: #ffffff;
+}
+
+.collInfo .areaBox .areaHd {
+    padding: 0px 14px 0px 19px;
+    line-height: 38px;
+    background: #f0f5f8;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.collInfo .areaBox .areaHd a {
+    float: right;
+    display: inline-block;
+    width: 22px;
+    height: 21px;
+    margin-top: 10px;
+    background:  no-repeat;
+    cursor: pointer;
+}
+
+.collInfo .areaBox ul {
+    height: 37px;
+    background:  bottom repeat-x;
+}
+
+.collInfo .areaBox ul li {
+    float: left;
+    width: 58px;
+    margin: 11px 10px 0px;
+    font-family: Arial;
+    color: #005eac;
+    text-align: center;
+    line-height: 25px;
+    border-top: 1px solid #ffffff;
+    cursor: pointer;
+}
+
+.collInfo .areaBox ul li.on {
+    border-radius: 3px 3px 0px 0px;
+    border: 1px solid #e1e1e1;
+    border-bottom: none;
+    background: #fff;
+}
+
+.collInfo .itemBoxArea {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collInfo .itemCon {
+    padding-bottom: 5px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collInfo .itemCon1 .linkBox {
+    width: 412px;
+    height: 104px;
+    padding: 5px;
+}
+
+.collInfo .itemCon1 .linkBox a {
+    display: inline-block;
+    margin: 5px 10px;
+    padding: 0px 2px;
+    line-height: 16px;
+}
+
+.collInfo .itemCon1 .linkBox a:hover {
+    color: #ffffff;
+    background: #005eac;
+    text-decoration: none;
+}
+
+.collInfo .itemCon1 .pageBox {
+    padding: 0px 15px;
+    text-align: right;
+}
+
+.collInfo .itemCon1 .pageBox a {
+    margin: 0px 10px;
+    color: #999999;
+}
+
+.collInfo .itemCon1 .pageBox a:hover {
+    color: #999999;
+    text-decoration: none;
+}
+
+.collInfo .itemCon1 .pageBox a.cur {
+    color: #005eac;
+}
+
+/*科目选择*/
+.subjectBox {
+    top: 25px;
+    right: -118px;
+    _top: 24px;
+    _right: -105px;
+    padding-top: 9px;
+    z-index: 99999;
+}
+
+.subjectBox b {
+    position: absolute;
+    left: 14px;
+    top: 0px;
+    display: block;
+    width: 8px;
+    height: 10px;
+}
+
+.subjectBox .subjectCon {
+    width: 132px;
+    padding: 0px 5px;
+    background: #ffffff;
+    border: 1px solid #e1e1e1;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.subjectBox .subjectCon a {
+    margin: 0px 10px;
+    word-break: break-all;
+    word-break: break-all;
+    display: inline-block;
+}
+
+/*学院选择*/
+.collegeName {
+    position: relative;
+    height: 88px;
+    text-align: center;
+    z-index: 99;
+}
+
+.collegeName b {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    display: none;
+    width: 48px;
+    height: 48px;
+    z-index: 9;
+}
+
+/* 20140224 */
+.cur b {
+    display: block;
+}
+
+.collegeName h2 {
+    padding-top: 22px;
+    font-family: "微软雅黑";
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.collegeName p {
+    margin: 5px 0px;
+}
+
+.collegeName p a {
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    color: #999999;
+}
+
+.collegeName p a:hover {
+    color: #005eac;
+}
+
+.collegeName .modify {
+    width: 37px;
+    cursor: pointer;
+}
+
+.collegeName .goIndex {
+    width: 62px;
+}
+
+.collegeName .areaBox {
+    position: absolute;
+    top: 95px;
+    left: -1px;
+    width: 483px;
+    border: 1px solid #e1e1e1;
+    background: #ffffff;
+    z-index: 99999;
+}
+
+.collegeName .areaBox em {
+    position: absolute;
+    top: -16px;
+    left: 85px;
+    display: block;
+    width: 21px;
+    height: 16px;
+}
+
+.collegeName .areaBox .areaHd {
+    padding: 0px 14px 0px 19px;
+    line-height: 38px;
+    background: #f0f5f8;
+    text-align: left;
+    border-bottom: 1px solid #e1e1e1;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collegeName .areaBox .areaHd a {
+    float: right;
+    display: inline-block;
+    width: 22px;
+    height: 21px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.collegeName .collegeSch {
+    margin-left: 18px;
+    padding-top: 8px;
+}
+
+.collegeName .collegeSch input {
+    display: block;
+    float: left;
+}
+
+.collegeName .collegeSch .searchCbox {
+    width: 208px;
+    height: 22px;
+    padding: 0px 9px;
+    line-height: 22px;
+    border: 1px solid #e1e1e1;
+}
+
+.collegeName .collegeSch .searchCbtn {
+    width: 24px;
+    height: 24px;
+    border: none;
+    cursor: pointer;
+}
+
+.collegeName .areaBox ul {
+    padding: 7px 0px 0px 5px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collegeName .areaBox ul li {
+    display: inline-block;
+    float: left;
+    width: 21px;
+    font-family: Arial;
+    color: #005eac;
+    text-align: center;
+    line-height: 20px;
+    cursor: pointer;
+}
+
+.collegeName .areaBox ul li.on {
+    border: 1px solid #e1e1e1;
+    border-bottom: none;
+    background: #ffffff;
+}
+
+.collegeName .itemBoxArea {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collegeName .itemCon {
+    padding-bottom: 5px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.collegeName .itemCon1 .linkBox {
+    padding: 5px;
+    text-align: left;
+}
+
+.collegeName .itemCon1 .linkBox a {
+    display: inline-block;
+    margin: 2px 5px;
+    padding: 2px 2px 0px 2px;
+    line-height: 16px;
+}
+
+.collegeName .itemCon1 .linkBox a:hover {
+    color: #ffffff;
+    background: #005eac;
+    text-decoration: none;
+}
+
+.collegeName .itemCon1 .linkBox table td {
+    border: none;
+}
+
+.collegeName .itemCon1 .pageBox {
+    padding: 0px 15px;
+    text-align: right;
+}
+
+.collegeName .itemCon1 .pageBox a {
+    margin: 0px 10px;
+    color: #999999;
+}
+
+.collegeName .itemCon1 .pageBox a:hover {
+    color: #999999;
+    text-decoration: none;
+}
+
+.collegeName .itemCon1 .pageBox a.cur {
+    color: #005eac;
+}
+
+/*已选择学校样式*/
+.collegeon h2 {
+    color: #005eac;
+}
+
+/*未选择学校样式*/
+.collegeno h2 {
+    padding-bottom: 4px;
+    color: #999999;
+}
+
+.collegeno .selbtn {
+    width: 118px;
+}
+
+.scoresTitle {
+    position: relative;
+    height: 38px;
+    padding: 0px 15px;
+    border-left: 1px solid #e1e1e1;
+    line-height: 38px;
+    border-right: 1px solid #e1e1e1;
+    background: #f9f9f9;
+}
+
+.scoresh3 {
+    padding-left: 12px;
+    line-height: 38px;
+    font-size: 14px;
+    text-align: left;
+    color: #005eac;
+}
+
+.scoresTitle ul {
+    position: absolute;
+    right: 0px;
+    bottom: -1px;
+    z-index: 9;
+}
+
+.scoresTitle ul li {
+    float: left;
+    width: 57px;
+    _display: inline;
+    height: 38px;
+    margin: 0px 22px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.scoresTitle ul li.on {
+    color: #005eac;
+}
+
+.scoresTitle ul li.on b {
+    display: block;
+}
+
+.itemBox table td {
+    height: 35px;
+}
+
+.itemBox table td.thfs {
+    font-size: 14px;
+    font-weight: bold;
+    color: #005EAC;
+}
+
+.itemBox table td span {
+    color: #000000;
+}
+
+.itemBox table td.bdrno {
+    border-right: 1px solid #ffffff;
+}
+
+.itemBox table td h3 {
+    margin-left: 15px;
+}
+
+.basicInfo th {
+    padding-left: 15px;
+}
+
+.basicInfo tr.last td {
+    padding: 0px 15px;
+    line-height: 38px;
+    text-align: left;
+}
+
+.basicInfo tr.last td span a {
+    margin-right: 10px;
+    color: #999999;
+}
+
+.basicInfo tr.last td em a {
+    margin-right: 10px;
+    color: #005EAC;
+}
+
+.basicInfo .correct, .basicInfo .wrong {
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin: 0px auto;
+}
+
+.basicInfo .correct {
+    background-position: 3px 5px;
+}
+
+.basicInfo .wrong {
+    background-position: 3px -38px;
+}
+
+/*高校投票*/
+.voteCollege {
+    padding-left: 20px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.voteCollege dl {
+    float: left;
+    width: 100px;
+}
+
+.voteCollege dl dt {
+    text-align: center;
+}
+
+.voteCollege dl dd {
+    position: relative;
+    height: 130px;
+}
+
+.voteCollege .voteCo {
+    margin: 0px auto;
+    cursor: pointer;
+    height: 21px;
+    text-indent: -9999px;
+    width: 56px;
+    display: block;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.voteCollege dl dd span {
+    position: absolute;
+    bottom: 0px;
+    left: 36px;
+    width: 27px;
+    height: 0px;
+    display: inline-block;
+    overflow: hidden;
+    zoom: 1;
+}
+
+/*加入对比*/
+.addContrast ul {
+    padding-top: 10px;
+}
+
+.addContrast ul li {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.addContrast ul li span a {
+    padding-left: 14px;
+    color: #999999;
+}
+
+.addContrast ul li span a:hover {
+    color: #999999;
+    text-decoration: none;
+}
+
+/*相关信息*/
+.relatedInfor {
+    padding-bottom: 10px;
+    border: 1px solid #e1e1e1;
+    font-size: 14px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.relatedInfor dl {
+    margin: 0px 15px;
+    padding: 5px 0px;
+    _display: inline;
+}
+
+.relatedInfor dl dt {
+    padding: 0px 6px 0px 12px;
+    line-height: 34px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.relatedInfor dl dt a {
+    color: #005eac;
+}
+
+.relatedInfor dl dt h3 {
+    padding-left: 13px;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.relatedInfor dl dd {
+    padding-top: 10px;
+}
+
+.relatedInfor ul {
+    padding: 0px 12px;
+}
+
+/* 底部浮层样式 */
+.f_foot_fixed {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 12px 0;
+    font-family: "微软雅黑";
+    color: #ffffff;
+    font-size: 20px;
+    background: #1a568e;
+    opacity: 0.93;
+    _position: absolute;
+    z-index: 8;
+}
+
+.f_foot_box {
+    position: relative;
+}
+
+.f_foot_box .f_close {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-position: 0px -75px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.f_foot_box dl {
+    margin-left: 100px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.f_foot_box dt {
+    width: 40px;
+    height: 74px;
+    margin-right: 40px;
+    background-position: 0px -129px;
+}
+
+.f_foot_box dd {
+    padding-top: 20px;
+}
+
+.f_foot_box dd a, .f_foot_box dd span {
+    float: left;
+}
+
+.f_foot_box dd a {
+    display: block;
+    width: 116px;
+    height: 29px;
+    margin-left: 20px;
+    background-position: 0px -100px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+/* 微信关注 */
+.add_care {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 125px;
+    margin-left: 485px;
+    background: #f7f7f7;
+    z-index: 7;
+    _position: absolute;
+}
+
+.add_care .add_cont {
+    position: relative;
+    text-align: center;
+}
+
+.add_care .add_cont h3 {
+    padding: 6px 0;
+    font-weight: normal;
+    line-height: 12px;
+}
+
+.add_care .add_cont img {
+    display: block;
+    margin: 0px auto;
+}
+
+.add_cont .f_close {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-position: 0 -48px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+/*百度广告 20140224*/
+.baidu_Ad_box {
+    padding: 6px;
+    border: 1px solid #e1e1e1;
+}
+
+.baidu_Ad_right {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+}
+
+/*大学与专业排行榜*/
+.widbox330 {
+    width: 355px;
+}
+
+.titrank {
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #E1E1E1;
+    border-bottom: 2px solid #E1E1E1;
+}
+
+.titrank em {
+    padding-left: 45px;
+    font: 16px/40px "微软雅黑";
+    display: inline-block;
+}
+
+.listIcon {
+    padding: 10px 0 10px 10px;
+}
+
+.listIcon li {
+    background: no-repeat left center;
+    padding-left: 10px;
+}
+
+.blue a {
+    color: #005EAC;
+}
+
+.blue a:hover {
+    color: #C00;
+}
+
+.about a {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.pl10 {
+    padding-left: 10px;
+}
+
+.btn_rank {
+    width: 62px;
+    position: fixed;
+    left: 50%;
+    top: 300px;
+    margin-left: 525px;
+    _position: absolute;
+    z-index: 1000;
+}
+
+.btn_rank a {
+    width: 62px;
+    height: 80px;
+    background:  no-repeat;
+    display: block;
+}
+
+.btn_rank a:hover {
+    background:  no-repeat;
+    text-decoration: none;
+}
+
+/*大学首页*/
+.graybox {
+    background: #F7FBFE;
+    padding: 10px 18px 14px;
+}
+
+.graybox p {
+    line-height: 32px;
+}
+
+.graybox img {
+    margin: 0 auto;
+    display: block
+}
+
+.tabschool {
+    position: relative;
+    width: 725px;
+}
+
+.tabschool .tabTit5 {
+    position: absolute;
+    right: 5px;
+    top: 10px;
+}
+
+.tabschool .tabTit5 li {
+    float: left;
+    width: 52px;
+    line-height: 20px;
+    background: #D8D8D8;
+    border: 1px solid #D8D8D8;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.tabschool .tabTit5 li.on5 {
+    background: #118AD2;
+    border: 1px solid #0072CE;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.pr10 {
+    padding-right: 10px;
+}
+
+.none {
+    display: none;
+}
+
+/*chart专用*/
+.chr {
+    width: 576px;
+}
+
+/* 新保送生页面 */
+a.net_blue, .net_blue {
+    color: #005EAC;
+}
+
+.lp44 {
+    padding-left: 44px;
+}
+
+.walks_box {
+    padding: 20px 20px 20px 42px;
+    border: 1px solid #E1E1E1;
+}
+
+.walks_con {
+    position: relative;
+    padding-top: 66px;
+    border-left: 1px solid #B4DB79;
+}
+
+.walks_con .walks_Tit {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    left: -15px;
+    padding-left: 42px;
+    line-height: 30px;
+    font-size: 16px;
+    background: 0px 0px no-repeat;
+}
+
+.walks_con dl {
+    position: relative;
+}
+
+.walks_con dt {
+    position: absolute;
+    left: -15px;
+    top: 0;
+    width: 30px;
+    padding: 8px 0;
+    line-height: 14px;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    background: #006BC0;
+    border-radius: 20px;
+}
+
+.walks_con dt.lh {
+    padding: 8px 0;
+    line-height: 14px;
+}
+
+.walks_con dd {
+    padding-left: 13px;
+}
+
+.walks_con dd ul {
+    padding-top: 1px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.walks_con dd li {
+    float: left;
+    _display: inline;
+    width: 262px;
+    margin-left: 20px;
+    padding-left: 14px;
+    line-height: 28px;
+    font-size: 14px;
+    background:  0 10px no-repeat;
+}
+
+.walks_con dd.last {
+    padding: 5px 0 0 30px;
+}
+
+/* 高校简介 */
+.college_msg {
+    background: #ffffff;
+}
+
+.college_msg dl {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.college_msg dt img {
+    display: block;
+}
+
+.college_msg dd {
+    width: 762px;
+    padding: 5px 0 0 32px;
+}
+
+.college_msg .basic_infor {
+    width: 310px;
+    margin-right: 20px;
+}
+
+.college_msg .contact {
+    width: 420px;
+    line-height: 28px;
+}
+
+.college_msg li {
+    line-height: 28px;
+}
+
+.college_msg .c211, .college_msg .c985, .scores_List .c211, .scores_List .c985 {
+    padding: 3px 5px 1px;
+    color: #ffffff;
+}
+
+.college_msg .c211, .scores_List .c211 {
+    background: #198CCF;
+}
+
+.college_msg .c985, .scores_List .c985 {
+    background: #FE5639;
+}
+
+/* 高校联系方式  */
+.content_Box {
+    width: 633px;
+    padding: 20px 20px 75px;
+    border: 1px solid #E1E1E1;
+}
+
+.content_Box h3 {
+    font-family: "微软雅黑";
+    font-size: 18px;
+    color: #000000;
+    font-weight: normal;
+}
+
+.title_h3 {
+    padding-left: 44px;
+    line-height: 30px;
+    background: no-repeat;
+}
+
+.msg_icon {
+    background-position: 0 -35px;
+}
+
+.fj_icon {
+    background-position: 0 0;
+}
+
+.zy_icon {
+    background-position: 0 -490px;
+}
+
+.sz_icon {
+    background-position: 0 -525px;
+}
+
+.icon_intro {
+    background-position: 0 -70px;
+}
+
+.icon_shizi {
+    background-position: 0 -105px;
+}
+
+.icon_yuanxi {
+    background-position: 0 -140px;
+}
+
+.icon_zyjs {
+    background-position: 0 -175px;
+}
+
+.icon_jiuye {
+    background-position: 0 -210px;
+}
+
+.icon_jianzhang {
+    background-position: 0 -245px;
+}
+
+.icon_lianxi {
+    background-position: 0 -280px;
+}
+
+.icon_baosong {
+    background-position: 0 -315px !important;
+}
+
+.icon_zizhu {
+    background-position: 0 -350px !important;
+}
+
+.icon_luqu {
+    background-position: 0 -385px;
+}
+
+.icon_shoufei {
+    background-position: 0 -420px;
+}
+
+.icon_major {
+    background-position: 0 -455px;
+}
+
+/* 招生计划 */
+.plan_box {
+    line-height: 28px;
+}
+
+.plan_box .plan_con {
+    padding-left: 44px;
+}
+
+.plan_box .plan_con p {
+    text-indent: 24px;
+    font-size: 12px;
+}
+
+.title_h4 {
+    padding-left: 13px;
+    font-size: 14px;
+    font-weight: normal;
+    background:  0 10px no-repeat;
+}
+
+.title_h4 span, .title_h4 a {
+    font-size: 12px;
+}
+
+.plan_box .return_btn {
+    display: block;
+    width: 53px;
+    height: 22px;
+    line-height: 22px;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    background:  no-repeat;
+}
+
+.table_default {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table_default th, .table_default td {
+    line-height: 24px;
+    border: 1px solid #E1E1E1;
+    font-size: 12px;
+    text-align: center;
+}
+
+.table_default th {
+    line-height: 32px;
+    font-weight: bold;
+    color: #005EAC;
+    font-size: 14px;
+    background: #F0F5F8;
+}
+
+.table_default td {
+    padding: 5px 10px;
+}
+
+/* 自主招生 */
+.process_box {
+    padding-left: 18px;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.process_box span {
+    float: left;
+    display: block;
+    _display: inline;
+    width: 48px;
+    margin-left: 2px;
+    padding: 8px 15px 7px 8px;
+    line-height: 18px;
+    background:  no-repeat;
+}
+
+.process_box span.last {
+    padding: 8px 6px 7px;
+    background:  no-repeat;
+}
+
+/* 专业设置 */
+.plan_con dl {
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+.plan_con dt {
+    font-weight: bold;
+}
+
+.plan_con dd span {
+    display: inline-block;
+    color: #CCCCCC;
+}
+
+/* 点击加入对比 */
+.compare_Float {
+    position: fixed;
+    top: 429px;
+    left: 50%;
+    width: 127px;
+    margin-left: -640px;
+    z-index: 999;
+}
+
+.compare_Float h3 {
+    height: 33px;
+    line-height: 33px;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: bold;
+    background: #198CCF;
+    text-align: center;
+    cursor: pointer;
+}
+
+.compare_Float li {
+    height: 30px;
+    padding-top: 14px;
+    line-height: 30px;
+    text-align: center;
+    background:  0 -116px no-repeat;
+    cursor: pointer;
+}
+
+.compare_Float li.first {
+    padding-top: 17px;
+    background-position: 0px -165px;
+}
+
+
+* html .compare_Float {
+    position: absolute;
+}
+
+/* 学校分数线列表 20140227 */
+.scores_List {
+    border-top: 1px solid #E1E1E1;
+}
+
+.scores_List dl {
+    border: 1px solid #E1E1E1;
+    border-top: none;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.scores_List dt {
+    float: left;
+    width: 83px;
+    height: 92px;
+    padding: 12px 12px 6px;
+    text-align: center;
+    border-right: 1px solid #E1E1E1;
+    background: #F0F5F8;
+}
+
+.scores_List dt img {
+    display: block;
+    margin: 0px auto 5px;
+}
+
+.scores_List .college_Nm {
+    display: block;
+    padding-top: 24px;
+}
+
+.scores_List dd {
+    height: 90px;
+    margin-left: 128px;
+    padding: 16px 12px 0 0;
+}
+
+.scores_List ul {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.scores_List li {
+    float: left;
+    width: 200px;
+    height: 24px;
+    margin-right: 10px;
+    _display: inline;
+    white-space: normal;
+    word-break: break-all;
+}
+
+/* 字母定位学校 */
+.letter_Box {
+    padding: 7px 13px;
+    border: 1px solid #E1E1E1;
+    border-top: none;
+    background: #F0F5F8;
+}
+
+.letter_Box a {
+    font-family: Arial;
+}
+
+.letter_Active {
+    font-family: Arial;
+    font-weight: bold;
+    color: #FE5439;
+}
+
+.letter_Tlt {
+    height: 33px;
+    padding: 0 18px;
+    line-height: 33px;
+    font-family: Arial;
+    border: 1px solid #E1E1E1;
+    border-top: none;
+    position: relative;
+}
+
+/* 学校评分 */
+.score_Box li {
+    float: left;
+    width: 280px;
+    padding: 8px 0 8px 42px;
+    *vertical-align: middle;
+}
+
+.score_Box li span {
+    display: inline-block;
+}
+
+.score_Box li span a {
+    display: inline-block;
+    width: 23px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    background: #F0F0F0;
+    border-right: 1px solid #ffffff;
+}
+
+.score_Box li span a.on {
+    color: #ffffff;
+    background: #2CAB04 !important;
+}
+
+.score_Box li span a:hover {
+    color: #ffffff;
+    background: #33ca03;
+}
+
+.score_Txt dt img, .score_Rep .score_Pic img {
+    display: block;
+    width: 47px;
+    height: 47px;
+    border: 1px solid #DDDDDD;
+}
+
+.score_Txt dd {
+    padding-left: 60px;
+}
+
+.score_Txt dd textarea {
+    display: block;
+    width: 570px;
+    height: 130px;
+    line-height: 24px;
+    padding-left: 13px;
+    border: 1px solid #DDDDDD;
+}
+
+.score_Rep li {
+    padding: 19px 0 23px 0;
+    border-bottom: 1px dotted #CCCCCC;
+    overflow: hidden;
+    zoom: 1;
+}
+
+.score_Rep .score_Rcon {
+    margin-left: 63px;
+}
+
+.score_Rep .score_Rcon h3 {
+    font-size: 14px;
+}
+
+.score_Rep .score_Rcon p {
+    margin-top: 0px;
+    word-break: break-all;
+}
+
+/*返回顶部*/
+/*修正IE6振动bug*/
+#back-to-top {
+    background: url(http://img.eduuu.com/website/gaokao/images/contList/btn_back.gif) no-repeat 50% 0;
+    width: 30px;
+    height: 91px;
+    position: fixed;
+    bottom: 0px;
+    display: block;
+    line-height: 999px;
+    overflow: hidden;
+    cursor: pointer;
+    left: 50%;
+    margin-left: 500px !important;
+    _position: absolute;
+    _bottom: auto;
+}
+
+.ssBox dd a.on {
+    font-weight: bold;
+    color: #FE7100
+}

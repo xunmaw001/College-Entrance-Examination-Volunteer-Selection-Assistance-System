@@ -1,0 +1,66 @@
+
+@charset "gb2312";
+/* CSS Document */
+
+.ml70{ margin-left:68px;}
+.logo-banner{ width:430px; float:left; margin-left:20px; _display:inline;}
+/*.newsite{ width:61px; height:23px; float:left; line-height:23px; margin:27px 0 0 10px; _display:inline; position:relative;}
+.newsite dl{ width:61px; height:23px; position:absolute; background:url(http://img.eduuu.com/gaokao/images/newhead/sitebg.gif) no-repeat; overflow:hidden; z-index:100; cursor:pointer;}
+.newsite dl dt{ width:55px; padding-left:6px;}
+.newsite dl dd{ width:274px; border:1px solid #FEE3CC; background-color:#fff; padding:10px 12px; color:#e4e4e4; word-spacing:1px;}
+.newsite dl dd em{ color:#666;}.newsite dl dd .blue{ color:#2C6BB3;}
+.newsite dl dd p{ border-bottom:1px dashed #ddd; padding-bottom:5px; margin-bottom:5px;}
+.newsite dl dd p.last{ border-bottom:none; padding:0; margin:0;}
+.newsite dl dd p a{ padding:2px;}
+.newsite dl dd p a:hover{ background-color:#0072bd; color:#fff; text-decoration:none;}
+.newsite dl dd ul li{ float:left; width:26px; margin:0 5px; _display:inline;}
+.newsite dl.on{ height:auto; width:300px;}
+*/
+.site1{ position:absolute; left:0;}
+.logoArea1{ height:70px; width:950px; position:relative; z-index:100;}
+.logo_new{ width:190px; height:45px; float:left; padding-top:10px;}
+.logo-banner{ width:430px; float:left; margin-left:25px; _display:inline;}
+.logoReg{ background:url(http://img.eduuu.com/website/aoshu/images/header/btn_qqbg.gif) no-repeat; width:208px; height:65px; position:absolute; right:0; top:-7px; padding:12px 5px 0; line-height:20px;}
+.logoReg span{ color:#c00;}
+.logoReg img{ margin-bottom:-5px; display:inline-block;}
+
+.loginInAd{ width:218px; height:69px; float:right; display:none;}
+.loginInAd01{ width:218px; height:69px; float:right;}
+.mission{ background:url(http://img.eduuu.com/website/aoshu/images/header/mesbg.gif) no-repeat; width:202px; height:61px; overflow:hidden; float:right; padding:8px 8px 0; line-height:18px; color:#999; position:relative;}
+.mission dt{ width:52px; float:left;}
+.mission dt img{ display:block; padding:1px; border:1px solid #ddd;}
+.mission dd{ float:left; width:140px; padding-left:8px;}
+.mission dd .tit{ color:#006500; font-weight:bold;}
+.mission .btnMis{ background:url(http://img.eduuu.com/website/aoshu/images/header/btn_mes.gif) no-repeat; width:64px; height:18px; border:none; cursor:pointer;}
+.mission .btnClose{ position:absolute; right:8px; top:8px; cursor:pointer;}
+
+.tag_nav{ background:url(http://img.eduuu.com/website/gaokao/images/header/top_nav_bg.gif) no-repeat; height:35px; width:950px;}
+.tag_nav span{ display:block; float:left; font-size:14px; font-weight:bold; background:url(http://img.eduuu.com/website/gaokao/images/header/nav_line.gif) no-repeat 0 1px;}
+.tag_nav span a{ color:#1a5189;height:33px; line-height:33px; padding:2px 10px 0; display:inline-block;}
+.tag_nav span a:hover{ text-decoration:none;color:#1a5189;}
+.tag_nav .tag_nav_2{ background:url(http://img.eduuu.com/website/gaokao/images/header/navbg_l.gif) no-repeat;}
+.tag_nav .tag_nav_2 a{ background:url(http://img.eduuu.com/website/gaokao/images/header/navbg_r.gif) right top no-repeat; color:#fff; font-weight:bold; padding:2px 9px 0;}
+.tag_nav .tag_nav_2 a:hover{ color:#fff;}
+.tag_nav #tag_nav_index.tag_nav_2 a{ padding:2px 10px 0;}
+
+#nav_con{ background:url(http://img.eduuu.com/website/gaokao/images/header/top_nav_con.gif) no-repeat; height:32px; line-height:32px; overflow:hidden; padding:2px 10px 0; position:relative; width:930px;}
+#nav_con ul li{ float:left; margin-left:10px; _display:inline;}
+#nav_con ul li a{ color:#fff;}
+#nav_con ul li a:hover{ color:#fff;}
+#nav_con ul li span{ color:#fff; font-weight:bold;}
+#nav_con ul li span.nav_hot{ color:#1a5189; background:url(http://img.eduuu.com/website/gaokao/images/header/nav_hotbg.gif) no-repeat 0 6px; width:85px; font-weight:bold; padding-left:5px; margin-right:5px; line-height:31px; *line-height:32px; display:inline-block;}
+.divNone{ display:none;}
+.hr_10{ clear:both; height:10px; overflow:hidden; font-size:1px; line-height:1px;}
+
+#area_site{ height:30px; line-height:30px; background:url(http://img.eduuu.com/website/gaokao/images/partsite/bj/index/zzmtNav.gif) repeat-x;border-left:1px solid #F5F5F5;border-right:1px solid #F5F5F5;width:948px; margin:0 auto;}
+#area_site strong,#area_site em{ color:#338FC2; padding-left:14px;}
+#area_site strong{ font-family:"寰蒋闆呴粦"; font-size:14px;}
+
+.web-nav{ border-left:1px solid #ddd; border-right:1px solid #ddd; border-bottom:1px solid #ddd; height:58px; overflow:hidden; background:#FDFEFE;}
+.web-nav dt{ width:76px; float:left;}
+.web-nav dd{ width:872px; float:left; padding-top:5px;}
+.web-nav dd p a{ padding:0 3px; line-height:18px; display:inline-block; margin:0 9px;}
+.web-nav dd p a:hover,.web-nav dd p a.n-cur{ background:#338FC2; color:#fff; text-decoration:none;}
+
+#xscSc a{ position:relative;}
+#xscSc a i{ background:url(http://img.eduuu.com/edu/images/new1019/new_icon.gif) no-repeat; width:11px; height:14px; position:absolute; top:-5px;}

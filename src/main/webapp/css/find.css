@@ -1,0 +1,433 @@
+@charset "utf-8";
+/* CSS Document */
+.none {
+    display: none;
+}
+
+.find-srh {
+    background: url(http://gaokaoimg.oss-cn-beijing.aliyuncs.com/static/gaokao/images/142903_580efbaf5a44b.jpg) no-repeat;
+    height: 38px;
+    text-align: right;
+    padding: 12px 20px 0 0;
+}
+
+.find-srh .input {
+    width: 205px;
+    height: 23px;
+    border: 1px solid #3993D7;
+    line-height: 23px;
+    color: #999;
+    padding-left: 3px;
+}
+
+.find-srh2 {
+    background-position: 0 -50px;
+}
+
+.find-srh3 {
+    background-position: 0 -100px;
+}
+
+.find-con {
+    border: 1px solid #ADD0EC;
+}
+
+.tab-tit {
+    border-bottom: 1px solid #ADD0EC;
+    height: 33px;
+    background: #F8FDFE;
+}
+
+.tab-tit li {
+    line-height: 33px;
+    padding: 0 35px;
+    float: left;
+    font-size: 14px;
+    border-right: 1px solid #ADD0EC;
+    cursor: pointer;
+}
+
+.tab-tit li.tit-on {
+    background: #fff;
+    border-top: 2px solid #187DC0;
+    line-height: 31px;
+    height: 33px;
+    position: relative;
+    top: -1px;
+    color: #2C6BB2;
+    font-weight: 700;
+}
+
+.tab-tit li.tit-on a {
+    color: #2C6BB2;
+}
+
+.super-nav {
+    padding-left: 10px;
+    margin: 10px 0;
+}
+
+.super-nav a {
+    padding: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.super-nav a:hover, .super-nav a.cur {
+    background: #D9EAF7;
+    color: #2C6BB2;
+    text-decoration: none;
+}
+
+.title {
+    background: #ECF8FF;
+    line-height: 28px;
+    height: 28px;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2C6BB2;
+    margin-bottom: 15px;
+    clear: both;
+}
+
+.title s {
+    border-width: 4px;
+    border-style: solid;
+    border-color: #ECF8FF #ECF8FF #ECF8FF #EC7A29;
+    font-size: 0;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -2px 5px 0 0;
+}
+
+.area-mod {
+    width: 296px;
+    float: left;
+    padding: 0 0 15px 20px;
+    color: #2C6BB2;
+    zoom: 1;
+}
+
+.area-mod dt {
+    background: url(http://img.eduuu.com/website/gaokao/images/partsite/bj/find/areabg.gif) no-repeat;
+    width: 53px;
+    height: 53px;
+    float: left;
+    font: 23px/48px '微软雅黑';
+    text-align: center;
+}
+
+.area-mod dd {
+    width: 230px;
+    float: left;
+    padding-left: 13px;
+    line-height: 26px;
+}
+
+.area-mod dd h3 {
+    font-size: 14px;
+}
+
+.area-mod dt a, .area-mod dd h3 a {
+    color: #2C6BB2;
+}
+
+.title2 {
+    margin-bottom: 0;
+}
+
+.title2 a:hover {
+    color: #2c6bb3;
+}
+
+.area-mod2 {
+    width: 169px;
+    float: left;
+    padding: 20px 0 20px 20px;
+    zoom: 1;
+    overflow: hidden;
+    color: #2C6BB2;
+}
+
+.area-mod2 dt, .area-mod4 dt {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.area-mod2 dd a {
+    color: #2C6BB2;
+}
+
+.area-mod3 {
+    width: auto;
+    padding: 20px 0 20px 20px;
+    zoom: 1;
+    overflow: hidden;
+    color: #2C6BB2;
+}
+
+.area-mod3 dd {
+    width: 510px;
+}
+
+.area-mod4 {
+    width: 134px;
+    float: left;
+    padding: 20px 0 20px 20px;
+    zoom: 1;
+    overflow: hidden;
+    color: #2C6BB2;
+}
+
+.area-mod5 {
+    width: 288px;
+}
+
+.area-mod5 dd {
+    width: 220px;
+}
+
+.mod2-line {
+    border-bottom: 1px solid #CEE3F4;
+    height: 0;
+    font-size: 0;
+    line-height: 0;
+    overflow: hidden;
+    width: auto;
+    clear: both;
+}
+
+.find-con-res {
+    border: none;
+}
+
+.find-con-res .tab-tit {
+    border: 1px solid #ADD0EC;
+}
+
+.find-con-res .super-nav {
+    border: 1px solid #ADD0EC;
+    border-top: none;
+    padding: 10px 0 10px 10px;
+    margin: 0;
+}
+
+.area-res-l {
+    width: 668px;
+    border: 1px solid #ADD0EC;
+    float: left;
+}
+
+.area-res-r {
+    width: 288px;
+    border: 1px solid #ADD0EC;
+    float: right;
+    padding: 15px;
+    zoom: 1;
+    overflow: hidden;
+}
+
+.area-res-r a {
+    color: #2C6BB2;
+}
+
+.area-res-r .list-line {
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.icon {
+    background: url(http://img.eduuu.com/website/gaokao/images/partsite/bj/find/icon.png) no-repeat;
+    padding-left: 20px;
+    margin-right: 15px;
+}
+
+.icon-yes {
+    background-position: 0 -2px;
+}
+
+.icon-res {
+    background-position: 0 -23px;
+}
+
+.icon-no {
+    background-position: 0 -43px;
+}
+
+.float-nav .tab-tit {
+    position: fixed;
+    left: 50%;
+    margin-left: -500px;
+    top: 0;
+    width: 998px;
+    border-left: 1px solid #ADD0EC;
+    border-right: 1px solid #ADD0EC;
+}
+
+.float-nav .super-nav {
+    position: fixed;
+    left: 50%;
+    margin: 0 0 0 -500px;
+    top: 34px;
+    width: 978px;
+    background: #fff;
+    padding: 10px;
+    border-left: 1px solid #ADD0EC;
+    border-right: 1px solid #ADD0EC;
+}
+
+.find-con-res.float-nav .super-nav {
+    top: 35px;
+}
+
+.boxsearch {
+    background: url(http://img.eduuu.com/website/gaokao/images/partsite/bj/find/bg_cont.jpg) no-repeat;
+    border: 1px solid #B2D3ED;
+    width: 998px;
+    height: 412px;
+    position: relative;
+}
+
+.btnse {
+    position: absolute;
+    background: url(http://img.eduuu.com/website/gaokao/images/partsite/bj/find/look1.gif) no-repeat;
+    text-align: right;
+    width: 198px;
+}
+
+.btnse a {
+    display: block;
+    height: 59px;
+    padding: 5px 60px 0 12px;
+    font: 18px/24px "微软雅黑";
+    color: #FFF;
+}
+
+.btnse a:hover {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.btnse a em {
+    font-size: 14px;
+    display: block;
+}
+
+.sheng {
+    left: 26px;
+    top: 64px;
+}
+
+.yiben {
+    left: 142px;
+    top: 140px;
+}
+
+.erben {
+    left: 384px;
+    top: 120px;
+}
+
+.sanben {
+    left: 509px;
+    top: 307px;
+    background: url(http://img.eduuu.com/website/gaokao/images/partsite/bj/find/look3.gif) no-repeat;
+}
+
+.sanben a {
+    padding: 14px 60px 0 12px;
+    height: 50px;
+}
+
+.zhuan {
+    width: 162px;
+    left: 743px;
+    top: 224px;
+    background: url(http://img.eduuu.com/website/gaokao/images/partsite/bj/find/look2.gif) no-repeat;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 106px;
+    cursor: pointer;
+    display: block;
+    height: 91px;
+    left: 50%;
+    line-height: 999px;
+    margin-left: 482px;
+    overflow: hidden;
+    width: 52px;
+    _position: absolute;
+    background: url("http://img.eduuu.com/website/gaokao/images/partsite/bj/index/rocket.gif") no-repeat;
+}
+
+#back-to-top:hover {
+    background-position: 0px -100px;
+}
+
+.c-2, .c-2 a {
+    color: #2c6bb3;
+}
+
+.c-red {
+    color: red;
+}
+
+.c-green {
+    color: green;
+}
+
+.find-srh4 {
+    background-position: 0 -150px;
+    color: #fff;
+    padding-right: 80px;
+}
+
+.find-srh4 a {
+    color: #fff;
+}
+
+.find-srh4 a.cur {
+    background: #ff9600;
+    border: 1px solid #eb7603;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.info2014-nav {
+    border: 1px solid #add0ec;
+    padding: 10px 20px;
+}
+
+.info2014-nav a {
+    padding: 0 6px;
+    cursor: pointer;
+}
+
+.info2014-table {
+    text-align: center;
+}
+
+.info2014-table th, .info2014-table td {
+    border: 1px solid #add0ec;
+    height: 30px;
+}
+
+.info2014-table th {
+    background: #ecf8ff;
+    color: #2b5297;
+    font-size: 14px;
+}
+
+.info2014-table td {
+    padding: 0 10px;
+}
+
+.info2014-table td.tl {
+    text-align: left;
+}
